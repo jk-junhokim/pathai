@@ -1,0 +1,15 @@
+GPU Device: Tesla V100-SXM2-32GB
+GPU ID: 1
+Dataset: OF_Large
+Patch Size: 256
+
+------------ Arguments -------------
+epoches: 130
+loss: BCEWithLogitsLoss
+network: VggInception
+optimizer: Adam
+train_batch_size: 128
+train_savename: ../models/VggInception/OF_Large_patch_256_Adam
+
+Pretrained: False
+

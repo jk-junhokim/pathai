@@ -1,0 +1,72 @@
+
+
+
+GPU Device: Tesla V100-SXM2-32GB
+GPU ID: 1
+Dataset: 453
+Patch Size: 128
+------------ Arguments -------------
+epoches: 150
+loss: BCEWithLogitsLoss
+network: VggInception
+optimizer: Adagrad
+train_batch_size: 256
+train_savename: ../models/VggInception/453_patch_128_BS_128_LR_Major
+Pretrained: False
+
+Memo: Optimizer: Adagrad, Learning Rate: 0.001,                 Train Batch Size: 256, Validation Batch Size: 256,                 N/A, step_size: N/A, gamma: N/A
+
+
+
+
+GPU Device: Tesla V100-SXM2-32GB
+GPU ID: 1
+Dataset: 453
+Patch Size: 128
+------------ Arguments -------------
+epoches: 150
+loss: BCEWithLogitsLoss
+network: VggInception
+optimizer: Adagrad
+train_batch_size: 512
+train_savename: ../models/VggInception/453_patch_128_BS_128_LR_Major
+Pretrained: False
+
+Memo: Optimizer: Adagrad, Learning Rate: 0.001,                 Train Batch Size: 256, Validation Batch Size: 256,                 N/A, step_size: N/A, gamma: N/A
+
+
+
+
+GPU Device: Tesla V100-SXM2-32GB
+GPU ID: 1
+Dataset: 453
+Patch Size: 128
+------------ Arguments -------------
+epoches: 150
+loss: BCEWithLogitsLoss
+network: VggInception
+optimizer: Adagrad
+train_batch_size: 512
+train_savename: ../models/VggInception/453_patch_128_BS_128_LR_Major
+Pretrained: False
+
+Memo: Optimizer: Adagrad, Learning Rate: 0.001,                 Train Batch Size: 256, Validation Batch Size: 256,                 N/A, step_size: N/A, gamma: N/A
+
+
+
+
+GPU Device: Tesla V100-SXM2-32GB
+GPU ID: 1
+Dataset: 453
+Patch Size: 128
+------------ Arguments -------------
+epoches: 150
+loss: BCEWithLogitsLoss
+network: VggInception
+optimizer: Adagrad
+train_batch_size: 512
+train_savename: ../models/VggInception/453_patch_128_BS_128_LR_Major
+Pretrained: False
+
+Memo: Optimizer: Adagrad, Learning Rate: 0.001,                 Train Batch Size: 256, Validation Batch Size: 256,                 N/A, step_size: N/A, gamma: N/A
+
